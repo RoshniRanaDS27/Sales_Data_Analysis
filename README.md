@@ -5,7 +5,7 @@ This analysis provides a detailed examination of the Superstore's sales performa
 # Formatted Data
 ![image](https://github.com/user-attachments/assets/2ae5af46-03f8-4920-9371-fe77385c87b2)
 
-# Analysis Findings
+# Analysis Findings 
 ### 1. Over the entire analysis period, what was the quantity of item 10 sold while John Jones was the Manager on duty?
 ![image](https://github.com/user-attachments/assets/bf074ac7-20de-40d3-b4ed-19525abbf0fc)
 
